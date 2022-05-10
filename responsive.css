@@ -89,7 +89,7 @@ body {
         flex-direction: column;
     }
 }
-
+/* nav bar font size decreased when resolution is less than 600px */
 @media screen and (max-width: 600px) {
     .navbar {
         font-size: 12px;
